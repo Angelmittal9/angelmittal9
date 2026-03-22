@@ -1,5 +1,5 @@
 # 💫 About Me:
-- Currently exploring **Artificial Intelligence, Machine Learning, and Full-Stack Development**
+- Currently exploring **Artificial Intelligence, Data structures and algorithms , and Full-Stack Development**
 - Strong foundation in **Python-based backend development**
 
 ## 🌐 Socials:
